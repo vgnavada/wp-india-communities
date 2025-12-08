@@ -106,6 +106,10 @@ A comprehensive list of WordPress meetup chapters across India, organized by sta
 
 ## Rajasthan
 
+### Ajmer
+- **Link:** [Ajmer WordPress Meetup](https://www.meetup.com/ajmer-wordpress-meetup/)
+- **Members:** 728
+
 ### Bhilwara
 - **Link:** [Bhilwara WordPress Meetup](https://www.meetup.com/bhilwara-wordpress-meetup/)
 - **Members:** 306
