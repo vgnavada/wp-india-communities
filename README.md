@@ -62,6 +62,10 @@ A comprehensive list of WordPress meetup chapters across India, organized by sta
 - **Link:** [Bengaluru WordPress Meetup](https://www.meetup.com/bengaluruwordpress/)
 - **Members:** 3,366
 
+### Udupi
+- **Link:** [Udupi WordPress Meetup Group](https://www.meetup.com/wpudupi/)
+- **Members:** 132
+
 ---
 
 ## Madhya Pradesh
